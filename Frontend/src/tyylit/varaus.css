@@ -1,0 +1,56 @@
+
+body {
+    background-color:rgba(226, 226, 226, 0.712);
+ }
+ /* tämä on Kuvatcontainerin css tiedosto*/
+ input {
+    text-align: center;  
+}
+
+textarea {
+   text-align: center;  
+}
+
+section{
+   
+   padding: 1%;
+   max-width:99%;
+}
+
+#textbox1{
+   float: left; 
+   width: auto;     
+}
+
+#textbox2{
+   float: left;  
+   width: auto;      
+}
+
+label {
+   text-align: center;
+}
+
+#text-center {
+   text-align: center;
+}
+
+#varaus-container {
+   text-align: center;
+}
+
+#label1 {
+   float: left;
+}
+
+#label2 {
+   float: left;
+}
+
+.container {
+   display: flex;
+   justify-content: center;
+ }
+
+
+
